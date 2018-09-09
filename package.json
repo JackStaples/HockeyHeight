@@ -1,0 +1,23 @@
+{
+  "name": "hockeyheight",
+  "version": "1.0.0",
+  "description": "visualization of iihf hockey player height",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackStaples/HockeyHeight.git"
+  },
+  "author": "Jack Staples",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackStaples/HockeyHeight/issues"
+  },
+  "homepage": "https://github.com/JackStaples/HockeyHeight#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
